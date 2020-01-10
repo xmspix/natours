@@ -66,7 +66,7 @@
       @include card-image(
         $color-secondary-light,
         $color-secondary-dark,
-        "../../img/nat-5.jpg"
+        "./../img/nat-5.jpg"
       );
     }
 
@@ -74,7 +74,7 @@
       @include card-image(
         $color-primary-light,
         $color-primary-dark,
-        "../../img/nat-6.jpg"
+        "./../img/nat-6.jpg"
       );
     }
 
@@ -82,7 +82,7 @@
       @include card-image(
         $color-tertiary-light,
         $color-tertiary-dark,
-        "../../img/nat-7.jpg"
+        "./../img/nat-7.jpg"
       );
     }
   }
